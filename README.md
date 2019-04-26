@@ -65,4 +65,5 @@ $ docker-compose stop
 $ docker-compose down -v
 ```
 
-何か問題があれば教えてください。
+何か思いついたら更新していきます
+
