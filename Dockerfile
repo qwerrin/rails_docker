@@ -22,5 +22,7 @@ ADD ./app/Gemfile.lock Gemfile.lock
  
 RUN \
 bundle install
+
+RUN yarn install
  
 ADD ./app ${APP_ROOT}
